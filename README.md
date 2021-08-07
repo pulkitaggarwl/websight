@@ -1,4 +1,4 @@
-# websight
+# websight 
 
 ![CI Status](https://github.com/paambaati/websight/workflows/build/badge.svg) [![Test Coverage](https://api.codeclimate.com/v1/badges/170cf9f21bdb38fd63a1/test_coverage)](https://codeclimate.com/github/paambaati/websight/test_coverage) [![Maintainability](https://api.codeclimate.com/v1/badges/170cf9f21bdb38fd63a1/maintainability)](https://codeclimate.com/github/paambaati/websight/maintainability) [![WTFPL License](https://img.shields.io/badge/License-WTFPL-blue.svg)](LICENSE)
 
